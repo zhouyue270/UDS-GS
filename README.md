@@ -3,11 +3,6 @@
 ## 📌Introduction
 UDS-GS is an advanced **3D Gaussian-based dynamic scene reconstruction** method designed for **autonomous driving, robotics, and virtual reality**. It efficiently reconstructs unbounded dynamic scenes in real-time by integrating **LiDAR and Structure-from-Motion (SFM) point clouds**, enhancing geometric precision. The model leverages **Gaussian color feature prediction networks** to effectively capture **local and global feature information**, ensuring high-quality scene rendering.  
 
-## 📌 Pipeline Overview  
-Below is the pipeline of our **UDS-GS** framework:  
-
-![Pipeline Overview](https://your-image-url.com/pipeline.png)
-
 ## 📂Datasets
 We use the following datasets for training and evaluation:
 - **Waymo Open Dataset**: [https://waymo.com/open/](https://waymo.com/open/)
